@@ -24,7 +24,7 @@
 不得发布违法内容、干扰服务运行、侵犯他人权益。
 
 ### 四、隐私保护
-请阅读[隐私政策](Privacy_Policy.md)了解数据处理方式。
+请阅读隐私政策了解数据处理方式。
 
 ### 五、知识产权
 App内容及商标归开发者所有，未经许可不得使用。
@@ -59,7 +59,7 @@ Provides item management, categorization, and search features. We reserve the ri
 Do not post illegal content, disrupt services, or infringe on others' rights.
 
 ### 4. Privacy
-Please read our [Privacy Policy](Privacy_Policy.md) for data handling practices.
+Please read our Privacy Policy for data handling practices.
 
 ### 5. Intellectual Property
 App content and trademarks belong to the developer. Use without permission is prohibited.

@@ -1,4 +1,4 @@
-# 收啦！储物柜 - 用户协议 / TidyHub - Terms of Use
+ue# 收啦！储物柜 - 用户协议 / TidyHub - Terms of Use
 
 **最后更新 / Last Updated**: 2025年7月26日  
 **生效日期 / Effective Date**: 2025年7月26日
@@ -42,7 +42,7 @@ Pro版本通过Apple App Store购买，自动续费订阅需在账户设置中�
 本协议适用中国法律，争议协商不成可向有管辖权法院起诉。
 
 ### 十、联系信息
-- **邮箱**：zjic@live.com
+- **邮箱**：zjicue@live.com
 - **反馈处理**：15个工作日内回复
 
 ---
@@ -77,7 +77,7 @@ We may update this agreement. Continued use constitutes acceptance of changes.
 Governed by Chinese law. Disputes resolved through negotiation or competent courts.
 
 ### 10. Contact
-- **Email**: zjic@live.com
+- **Email**: zjicue@live.com
 - **Response Time**: 15 business days
 
 ---

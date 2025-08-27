@@ -1,89 +1,79 @@
-ue# 收啦！储物柜 - 用户协议 / TidyHub - Terms of Use
+使用条款与条件（“条款”）
 
-**最后更新 / Last Updated**: 2025年7月26日  
-**生效日期 / Effective Date**: 2025年7月26日
+最近更新日期：2025年8月1日
 
----
+在使用TidyGo（“我们”或“我们的”）移动应用程序（以下简称“本服务”）前，请仔细阅读本条款与条件（“条款”或“条款与条件”）。
 
-## 语言选择 / Language Selection
+您访问和使用本服务的条件为接受并遵守本条款。本条款适用于所有访问或使用本服务的访客、用户及其他人员。
 
-- [中文版本](#中文版本)
-- [English Version](#english-version)
+一旦您访问或使用本服务，即表示同意受本条款约束。如您不同意本条款的任何部分，则不得访问本服务。
 
----
+订阅
 
-## 中文版本 {#中文版本}
+本服务的部分功能以订阅形式进行收费（“订阅”）。订阅费用将按固定周期（“账单周期”）定期提前扣款。账单周期按月度或年度等设置，具体取决于您购买订阅时所选择的订阅方案类型。
 
-### 一、接受条款
-使用本App即表示您同意本协议所有条款。
+每一账单周期结束时，如您未取消订阅，则您的订阅将按完全相同的条款自动续订。请注意，TidyGo无法代为取消订阅。您须直接通过苹果支付系统管理订阅，因付款流程由该平台处理。
 
-### 二、服务内容
-提供物品管理、分类整理、搜索等功能。我们保留修改或终止服务的权利。
+为完成订阅付款，您可能需要提供有效的支付方式，包括信用卡信息。您应向苹果提供准确、完整的账单信息，包括全名、地址、州/省、邮政编码、电话号码及有效的付款方式信息。提交该等信息即表示您授权苹果就您账户产生的所有订阅费用从该支付工具中扣款。
 
-### 三、用户行为规范
-不得发布违法内容、干扰服务运行、侵犯他人权益。
+请注意：所有账单问题（包括付款失败）均须通过苹果支付系统处理。TidyGo不针对账单故障开具电子发票，亦不处理人工付款。任何与账单相关的查询或操作（包括更新付款方式或处理付款失败）应直接向苹果提出。
 
-### 四、隐私保护
-请阅读隐私政策了解数据处理方式。
+免费试用
 
-### 五、知识产权
-App内容及商标归开发者所有，未经许可不得使用。
+TidyGo保留随时修改免费试用条款与条件或取消该等免费试用活动的权利，且无须另行通知。
 
-### 六、免责声明
-服务按现状提供，不保证无中断或无错误。因不可抗力导致的服务中断不承担责任。
+费用变更
 
-### 七、付费服务
-Pro版本通过Apple App Store购买，自动续费订阅需在账户设置中管理。
+TidyGo可自行决定随时修改订阅费用。任何订阅费用变更将于当前账单周期结束时生效。
 
-### 八、协议修改
-我们有权更新协议，继续使用即视为接受修改。
+TidyGo将就订阅费用的任何变更进行合理提前通知，以便您有机会在该变更生效前终止订阅。
 
-### 九、法律适用
-本协议适用中国法律，争议协商不成可向有管辖权法院起诉。
+若您在费用变更生效后继续使用本服务，即表示同意按修改后的订阅费用支付。
 
-### 十、联系信息
-- **邮箱**：zjicue@live.com
-- **反馈处理**：15个工作日内回复
+退款
 
----
+除非法律另有规定，已支付的订阅费用不予退还。
 
-## English Version {#english-version}
+知识产权
 
-### 1. Acceptance of Terms
-By using this App, you agree to all terms in this agreement.
+本服务及其原始内容、特性与功能均属TidyGo及其许可方独家所有，并将持续保持该属性。本服务受中国及其他国家/地区的版权、商标法和其他相关法律保护。未经TidyGo开发者事先书面同意，不得将我们的商标和商业外观用于任何产品或服务。
 
-### 2. Services
-Provides item management, categorization, and search features. We reserve the right to modify or terminate services.
+第三方网站链接
 
-### 3. User Conduct
-Do not post illegal content, disrupt services, or infringe on others' rights.
+我们的服务可能包含指向非TidyGo拥有或控制的第三方网站或服务的链接。
 
-### 4. Privacy
-Please read our Privacy Policy for data handling practices.
+TidyGo对任何第三方网站或服务的内容、隐私政策或实践概无控制，亦不承担任何责任。对于因使用或依赖该等第三方网站或服务所提供的内容、广告、产品、服务或其他材料而造成（或声称造成）的任何直接或间接损失，TidyGo概不负责。
 
-### 5. Intellectual Property
-App content and trademarks belong to the developer. Use without permission is prohibited.
+我们强烈建议您阅读所访问的任何第三方网站或服务的条款与条件及隐私政策。
 
-### 6. Disclaimer
-Services provided as-is. No guarantee of uninterrupted or error-free service. Not liable for interruptions due to force majeure.
+终止
 
-### 7. Paid Services
-Pro version purchased through Apple App Store. Auto-renewal subscriptions managed in account settings.
+我们可在无事先通知或承担责任的情况下，立即终止或暂停您的账户，终止理由包括但不限于您违反本条款。
 
-### 8. Agreement Changes
-We may update this agreement. Continued use constitutes acceptance of changes.
+终止后，您使用服务的权利将立即停止。如您希望终止账户，可自行停止使用本服务。
 
-### 9. Law
-Governed by Chinese law. Disputes resolved through negotiation or competent courts.
+责任限制
 
-### 10. Contact
-- **Email**: zjicue@live.com
-- **Response Time**: 15 business days
+在任何情况下，TidyGo及其董事、员工、合作伙伴、代理、供应商或关联公司均不对任何间接、附带、特殊、后果性或惩罚性损害承担责任，包括但不限于利润损失、数据损失、使用损失、商誉损失或其他无形损失，且无论因以下何种原因引起：（i）您访问或使用或无法访问或使用本服务；（ii）任何第三方在本服务中的行为或内容；（iii）从服务获取的任何内容；或（iv）未经授权访问、使用或篡改您的传输内容或数据；亦无论基于保证、合同、侵权（包括疏忽）或其他法律理论，即使已被告知可能发生此类损害，或即使既定救济方式未能达到其基本目的。
 
----
+免责声明
 
-## Apple Disclaimer
-Apple Inc. is not responsible for this agreement and assumes no liability.
+您使用本服务的风险由您自行承担。本服务按“原样”和“现有”基础提供。TidyGo不提供任何形式的明示或暗示保证，包括但不限于对适销性、特定用途适用性、不侵权或履约过程的默示保证。
 
-## License
-This document is provided under standard App Store terms and conditions.
+TidyGo及其子公司、关联公司和许可方不保证：a) 服务将在任何特定时间或地点持续不间断、安全或可用；b) 任何错误或缺陷将得到纠正；c) 服务不包含病毒或其他有害组件； d) 使用服务的结果将符合您的要求；e) 在特定情况下停止服务。
+
+管辖法律
+
+本条款应依据中国法律进行解释与适用，但不适用其冲突法规定。
+
+我们未执行本条款中的任何权利或规定，不构成对该权利或规定的放弃。如本条款中任何条款被法院认定为无效或不可执行，其余条款仍继续保持完全效力。本条款构成您与我们之间关于本服务的完整协议，并取代先前就服务达成的任何协议。
+
+变更
+
+我们保留随时自行决定修改或替换本条款的权利。若变更内容重大，我们将在新条款生效前至少提前30天发出通知。重大变更的定义将由我们自行判断。
+
+若您在新条款生效后继续访问或使用我们的服务，即表示接受修订后的条款。如不同意新条款，请您停止使用本服务。
+
+联系我们
+
+如您对本条款存在任何疑问，请通过相应渠道联系我们。
